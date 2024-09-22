@@ -1,7 +1,7 @@
 - 👋 Olá, Sou @CrissPereira.
 - 👀 Estou interessado em Desenvolvimento Front-end.
 - 🌱 Atualmente estou aprendendo Responsividade utilizando CSS e Interatividade com Javascript.
-- 💞️ Estou procurando colaborar com projetos, para aprimorar minha tecnicas.
+- 💞️ Estou procurando colaborar com projetos, para aprimorar minha técnicas.
 - ⚡ Curiosidades: Atualmente formado em Gestão de TI.
 
   ##
