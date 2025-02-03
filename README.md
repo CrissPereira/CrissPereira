@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @CrissPereira.
+ - 👋 Olá, Sou @CrissPereira.
 - 👀 Estou interessado em Desenvolvimento Front-end.
 - 🌱 Atualmente estou aprendendo Responsividade utilizando CSS e Interatividade com Javascript.
 - 💞️ Estou procurando colaborar com projetos, para aprimorar minha técnicas.
@@ -6,9 +6,9 @@
 
   ##
 
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=CrissPereira&show_icons=true&theme=dark"/>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=CrissPereira&show_icons=true&theme=dark"/>
 <!--<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissPereira&layout=compact&langs_count=16&theme=dark"/>-->
-<img height=200em font-size= 800px src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissPereira&layout=donut&langs_count=16&theme=dark"/>
+<img height= "180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissPereira&layout=donut&langs_count=16&theme=dark"/>
 
 ##
 
