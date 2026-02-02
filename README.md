@@ -6,21 +6,21 @@
 
   ##
 
-<img height= "200em" width="400rem" src="https://github-readme-stats.vercel.app/api?username=CrissPereira&show_icons=true&theme=dark"/>
+ <!--<img height= "200em" width="400rem" src="https://github-readme-stats.vercel.app/api?username=CrissPereira&show_icons=true&theme=dark"/>
 <!--<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissPereira&layout=compact&langs_count=16&theme=dark"/>-->
-<img  width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissPereira&layout=donut&langs_count=16&theme=dark"/>
+<!--<img  width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissPereira&layout=donut&langs_count=16&theme=dark"/>
 
 ##
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
    <!--<img align="center" alt="Cris-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <!--<img align="center" alt="Cris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <!--<img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Cris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-</div>
+<!--</div> -->
   
   ##
  
